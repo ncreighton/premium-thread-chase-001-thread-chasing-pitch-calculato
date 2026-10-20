@@ -1,0 +1,2 @@
+# premium-thread-chase-001-thread-chasing-pitch-calculato
+Stop wasting brass and steel on miscalculated threads. The Thread Chasing Pitch Calculator turns your Notion workspace into a precision thread-matching hub—no more guessing, no more scrap.  This template eliminates the trial-and-error of thread chasing by giving you instant, accurate pitch calculations for any standard or custom thread. Unlike gene
